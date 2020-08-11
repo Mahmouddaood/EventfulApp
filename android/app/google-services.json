@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "115217821262",
+    "firebase_url": "https://eventfual.firebaseio.com",
+    "project_id": "eventfual",
+    "storage_bucket": "eventfual.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115217821262:android:0853a1b6fb8ecaec17dd1f",
+        "android_client_info": {
+          "package_name": "com.mytspro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115217821262-feqbakuegnl074tmkvpu3d833rb6276n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTh9UDxNrUjD-IUuxw-G3O6z3TG97Vp_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115217821262-feqbakuegnl074tmkvpu3d833rb6276n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
